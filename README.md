@@ -9,9 +9,11 @@
 
 ## 🌟 Highlights  
 🌍 **Advocated for over 2,500 graduate students** as the MS Representative for the Student Advisory Board at Florida International University.  
-👉 [Learn more about my role here.](https://sac.cs.fiu.edu/sac/team/sachin-sravan-kumar-komati-sachin/)  
+👉 [ View my profile on FIU's website.](https://sac.cs.fiu.edu/sac/team/sachin-sravan-kumar-komati-sachin/)  
 
-📈 **Published 6+ peer-reviewed studies** on AI-based predictive models in gastroenterology and hematology, featured in leading journals.  
+📚 **Published multiple peer-reviewed studies** on **mortality trends** and **AI predictive models**, featured in renowned journals.  
+📖 Contributions span **gastroenterology**, **hematology**, and **oncology** research.  
+
 🏆 **Recognized by the Society of Critical Care Medicine (SCCM)** for excellence in critical care research.  
 
 ---
@@ -26,12 +28,6 @@
 🚀 **Programming**: Python, TensorFlow, Keras, PyTorch, OpenCV  
 🔧 **Frameworks**: Transformers, HuggingFace, Vision Transformers (ViT)  
 📊 **Domains**: RNNs, CNNs, Generative AI, Data Science  
-
----
-
-## 📚 Publications  
-📝 Published multiple studies on **mortality trends** and **AI predictive models**, featured in renowned journals.  
-📖 Contributions span **gastroenterology**, **hematology**, and **oncology** research.  
 
 ---
 

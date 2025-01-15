@@ -1,4 +1,6 @@
-# 🌟 STAR Research Award Recipient | 🩺 Transforming Healthcare with AI | 🤖 Deep Learning & GenAI Enthusiast
+
+
+## 🌟 STAR Research Award Recipient | 🩺 Transforming Healthcare with AI | 🤖 Deep Learning & GenAI Enthusiast
 
 🚀 **Passionate about revolutionizing healthcare through cutting-edge AI solutions.**  
 With a strong foundation in **Machine Learning, Deep Learning, and Computer Vision**, I specialize in developing predictive models and multimodal frameworks that improve patient outcomes and advance medical research.

@@ -12,7 +12,7 @@
 👉 [ View my profile on FIU's website.](https://sac.cs.fiu.edu/sac/team/sachin-sravan-kumar-komati-sachin/)  
 
 📚 **Published multiple peer-reviewed studies** on **mortality trends** and **AI predictive models**, featured in renowned journals.  
-📖 Contributions span **gastroenterology**, **hematology**, and **oncology** research.  
+📖 Contributions span **gastroenterology**, **hematology**, **oncology**, and **diabetology** research  
 
 🏆 **Recognized by the Society of Critical Care Medicine (SCCM)** for excellence in critical care research.  
 

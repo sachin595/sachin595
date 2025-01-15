@@ -28,6 +28,8 @@
 ## 🛠️ Skills  
 - **Programming Languages**: Python, MATLAB, C/C++, Java, R, SQL  
 - **Libraries & Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, Numpy, OpenCV, Matplotlib, Transformers, Diffusers, HuggingFace, OpenAI  
+- **Domains of Expertise**: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing, Generative AI  
+
 
 
 ---

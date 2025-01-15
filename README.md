@@ -24,10 +24,11 @@
 
 ---
 
+
 ## 🛠️ Skills  
-🚀 **Programming**: Python, TensorFlow, Keras, PyTorch, OpenCV  
-🔧 **Frameworks**: Transformers, HuggingFace, Vision Transformers (ViT)  
-📊 **Domains**: RNNs, CNNs, Generative AI, Data Science  
+- **Programming Languages**: Python, MATLAB, C/C++, Java, R, SQL  
+- **Libraries & Frameworks**: TensorFlow, Keras, PyTorch, Scikit-Learn, Pandas, Numpy, OpenCV, Matplotlib, Transformers, Diffusers, HuggingFace, OpenAI  
+
 
 ---
 

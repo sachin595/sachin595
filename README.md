@@ -1,4 +1,4 @@
-
+# Hi 👋, I'm Sachin Komati
 
 ## 🌟 STAR Research Award Recipient | 🩺 Transforming Healthcare with AI | 🤖 Deep Learning & GenAI Enthusiast
 

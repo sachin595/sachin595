@@ -37,4 +37,4 @@
 📁 **GitHub**: [github.com/sachin595](https://github.com/sachin595)  
 📚 **Google Scholar**: [scholar.google.com](https://scholar.google.com)  
 
-💡 **Let’s build the future of healthcare, one model at a time!**  
+💡 **Let’s build the future of healthcare**  

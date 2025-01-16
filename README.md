@@ -37,6 +37,6 @@
 ## 🌐 Connect with Me  
 🔗 **LinkedIn**: [linkedin.com/in/sachin-komati](https://www.linkedin.com/in/sachin-komati)  
 📁 **GitHub**: [github.com/sachin595](https://github.com/sachin595)  
-📚 **Google Scholar**: [scholar.google.com](https://scholar.google.com)  
+📚 **Google Scholar**: [scholar.google.com](https://scholar.google.com/citations?user=Cz8cwfoAAAAJ&hl=en)
 
 💡 **Let’s build the future of healthcare**  

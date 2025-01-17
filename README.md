@@ -52,7 +52,7 @@
 
 
 
-[![LinkedIn](https://raw.githubusercontent.com/sachin595/sachin595/main/linkedin.png)](https://www.linkedin.com/in/sachin-komati)
+[![LinkedIn](https://raw.githubusercontent.com/sachin595/sachin595/main/linkedin1.png)](https://www.linkedin.com/in/sachin-komati)
 
 
 

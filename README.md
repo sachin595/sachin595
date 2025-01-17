@@ -50,6 +50,9 @@
 
 ## Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/linkedin.png)](https://www.linkedin.com/in/sachin-komati)
+
+
+[![LinkedIn](https://raw.githubusercontent.com/sachin595/sachin595/main/linkedin.png)](https://www.linkedin.com/in/sachin-komati)
+
 
 

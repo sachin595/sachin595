@@ -3,7 +3,7 @@
 💡 **Passionate about transforming healthcare through the power of Artificial Intelligence.**  
 💻 **Expert in Deep Learning, Machine Learning, and Computer Vision, driving innovation in medical research and patient care.**  
 🌟 **STAR Research Award Recipient recognized for advancing critical care research.**  
-🎯 **Dedicated to revolutionizing healthcare technology, one model at a time.**  
+🎯 **Dedicated to revolutionizing healthcare technology.**  
 
 ---
 

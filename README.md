@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sachin Komati  
+ # Hi 👋, I'm Sachin Komati  
 
 💡 **Passionate about transforming healthcare through the power of Artificial Intelligence.**  
 💻 **Expert in Deep Learning, Machine Learning, and Computer Vision, driving innovation in medical research and patient care.**  
@@ -24,14 +24,14 @@
 
 ---
 ## 🛠️ Skills  
-### Programming Languages
+### Programming Languages:
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
-### Libraries & Frameworks
+### Libraries & Frameworks:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -44,7 +44,7 @@
 ![Diffusers](https://img.shields.io/badge/Diffusers-lightgreen?style=for-the-badge&logo=huggingface&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-orange?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-blue?style=for-the-badge&logo=openai&logoColor=white)
-### Domains of Expertise
+### Domains of Expertise:
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=pytorch&logoColor=white)

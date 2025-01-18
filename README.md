@@ -54,7 +54,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Explore My Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-komati)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Cz8cwfoAAAAJ&hl=en)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/sachin595-2172)

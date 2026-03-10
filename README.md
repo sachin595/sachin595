@@ -16,6 +16,8 @@
 
 🏆 **Recognized by the Society of Critical Care Medicine (SCCM)** for excellence in critical care research.  
 
+🥇 **Honored with three Presidential Awards from the American College of Gastroenterology (ACG) for outstanding research contributions.**
+
 ---
 
 ## 📈 Open to Collaborations  

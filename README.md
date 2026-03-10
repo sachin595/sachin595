@@ -21,7 +21,7 @@
 ---
 
 ## 📈 Open to Collaborations  
-🤝 **Exploring opportunities in Generative AI, Agentic AI, and large-scale intelligent systems.**                                          
+🤝 **Exploring opportunities in Generative AI, Agentic AI, and large-scale intelligent systems.**                                                                                            
 💡 **Let’s innovate and build the future of AI-powered technologies that solve complex real-world problems.**
 
 ---

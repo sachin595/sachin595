@@ -1,6 +1,6 @@
  # Hi 👋, I'm Sachin Komati  
 
-💡 **Passionate about transforming healthcare through the power of Artificial Intelligence.**  
+💡 **Passionate about building impactful solutions through the power of Artificial Intelligence.**  
 💻 **Expert in Deep Learning, Machine Learning, and Computer Vision, driving innovation in medical research and patient care.**  
 🌟 **STAR Research Award Recipient recognized for advancing critical care research.**  
 🎯 **Dedicated to revolutionizing healthcare technology.**  
